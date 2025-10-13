@@ -1,5 +1,4 @@
 # Roget's Thesaurus Scraper
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/KosmasKanellakis/Assignment-3_rogets_thesaurus)
 
 This repository contains a Python script within a Jupyter Notebook that scrapes, parses, and structures the content of *Roget's Thesaurus* from the Project Gutenberg website. The script organizes the complex structure of the thesaurus into a hierarchical JSON file.
 
